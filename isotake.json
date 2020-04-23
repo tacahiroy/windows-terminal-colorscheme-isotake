@@ -1,0 +1,21 @@
+{
+    "name": "Isotake",
+    "black": "#00380b",
+    "red": "#cd0000",
+    "green": "#00a400",
+    "yellow": "#d98407",
+    "blue": "#004995",
+    "purple": "#ff3274",
+    "cyan": "#06989a",
+    "white": "#d3d7cf",
+    "brightBlack": "#404040",
+    "brightRed": "#ef2929",
+    "brightGreen": "#4be941",
+    "brightYellow": "#ffd05a",
+    "brightBlue": "#5d94ff",
+    "brightPurple": "#ff8bda",
+    "brightCyan": "#34e2e2",
+    "brightWhite": "#eeeeec",
+    "background": "#f2fff4",
+    "foreground": "#004541"
+}
